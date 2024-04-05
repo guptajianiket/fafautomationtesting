@@ -721,7 +721,7 @@ class Test_footer_sanity:
         testactions.click_and_verify_url(self, self.driver.find_element(By.XPATH, footer.career), basic_url.faf_careers_and_advisory_roles)
 
     def test_footer_subscribe_button(self):
-        pytest.skip("Test is not written yet")
+        testactions.click_and_verify_url(self, self.driver.find_element(By.CLASS_NAME,footer.subscribe), basic_url.signup)
 
     def test_footer_twitter_icon(self):
         pytest.skip("Test is not written yet")

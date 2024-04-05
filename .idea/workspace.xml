@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec6bbf0f-7586-4ba9-bd62-2f8da5988558" name="Changes" comment="New project" />
+    <list default="true" id="ec6bbf0f-7586-4ba9-bd62-2f8da5988558" name="Changes" comment="New project">
+      <change beforePath="$PROJECT_DIR$/test_cases/GASB/Sanity.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_cases/GASB/Sanity.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -152,6 +154,14 @@
       <option name="presentableId" value="Default" />
       <updated>1711085634743</updated>
     </task>
+    <task id="LOCAL-00001" summary="New project">
+      <created>1712327763858</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712327763858</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
